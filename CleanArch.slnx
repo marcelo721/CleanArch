@@ -3,5 +3,5 @@
   <Project Path="CleanArch.Domain/CleanArch.Domain.csproj" />
   <Project Path="CleanArch.Infra.Data/CleanArch.Infra.Data.csproj" />
   <Project Path="CleanArch.Infra.IoC/CleanArch.Infra.IoC.csproj" />
-  <Project Path="CleanArch.MVC/CleanArch.MVC.csproj" />
+  <Project Path="CleanArch.MVC/CleanArch.MVC.csproj" Id="2f5211a6-e4eb-4fee-8854-5b05d2af37f4" />
 </Solution>

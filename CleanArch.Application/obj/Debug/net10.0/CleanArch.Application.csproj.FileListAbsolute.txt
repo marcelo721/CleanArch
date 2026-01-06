@@ -1,0 +1,16 @@
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\bin\Debug\net10.0\CleanArch.Application.deps.json
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\bin\Debug\net10.0\CleanArch.Application.dll
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\bin\Debug\net10.0\CleanArch.Application.pdb
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\bin\Debug\net10.0\CleanArch.Domain.dll
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\bin\Debug\net10.0\CleanArch.Domain.pdb
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.sourcelink.json
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArc.054EF71E.Up2Date
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.dll
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\refint\CleanArch.Application.dll
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\CleanArch.Application.pdb
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Application\obj\Debug\net10.0\ref\CleanArch.Application.dll

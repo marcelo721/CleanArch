@@ -9,3 +9,4 @@ C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Domain\obj\Debug\net10.0\Cl
 C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Domain\obj\Debug\net10.0\refint\CleanArch.Domain.dll
 C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.pdb
 C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Domain\obj\Debug\net10.0\ref\CleanArch.Domain.dll
+C:\Users\UserDC\Desktop\Fit Bank\CleanArch\CleanArch.Domain\obj\Debug\net10.0\CleanArch.Domain.sourcelink.json
