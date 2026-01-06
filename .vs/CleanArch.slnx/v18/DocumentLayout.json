@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserDC\\Desktop\\Fit Bank\\CleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5E8C2F-1C19-475E-8046-25B54913281F}|CleanArch.MVC\\CleanArch.MVC.csproj|c:\\users\\userdc\\desktop\\fit bank\\cleanarch\\cleanarch.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5E8C2F-1C19-475E-8046-25B54913281F}|CleanArch.MVC\\CleanArch.MVC.csproj|solutionrelative:cleanarch.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserDC\\Desktop\\Fit Bank\\CleanArch\\CleanArch.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArch.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\UserDC\\Desktop\\Fit Bank\\CleanArch\\CleanArch.MVC\\Program.cs",
+              "RelativeToolTip": "CleanArch.MVC\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:40:17.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
