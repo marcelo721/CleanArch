@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace CleanArch.MVC.Migrations
+namespace CleanArch.Infra.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

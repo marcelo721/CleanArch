@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace CleanArch.MVC.Data
+namespace CleanArch.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {

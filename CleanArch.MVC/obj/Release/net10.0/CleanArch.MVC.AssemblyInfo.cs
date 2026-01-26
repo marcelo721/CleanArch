@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ac77524236fc6914336ebccf33eb08f4dd4b8ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8546e9880e7b933f8c550dbb37069798e6aed55f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
