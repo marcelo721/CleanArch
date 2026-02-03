@@ -20,6 +20,55 @@ namespace CleanArch.Infra.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("CleanArch.Domain.Entities.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Description for Product 1",
+                            Name = "Product 1",
+                            Price = 10.00m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Description for Product 2",
+                            Name = "Product 2",
+                            Price = 20.00m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Description for Product 3",
+                            Name = "Product 3",
+                            Price = 30.00m
+                        });
+                });
 #pragma warning restore 612, 618
         }
     }

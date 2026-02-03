@@ -1,4 +1,4 @@
-using CleanArch.Infra.Data; // Importante para reconhecer o AddInfrastructure
+using CleanArch.Infra.IoC;// Importante para reconhecer o AddInfrastructure
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
